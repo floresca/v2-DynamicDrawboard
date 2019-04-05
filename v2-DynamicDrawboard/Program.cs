@@ -13,7 +13,7 @@ And the state of the Board itself.. such like the location of the next | MOVE |
  */
 
 
-// This will be for the Boardgame called,  Connect4
+// This will be for the Boardgame called, Connect4
 
 namespace game
 {
